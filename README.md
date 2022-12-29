@@ -5,26 +5,26 @@
 # 📌 INFO
 
 `Features`
-✅ Token Checker
-✅	DM spammer
-✅	Server spammer
-✅	Server joiner
-✅	Server leaver
-✅	Token logger
-✅	Account host
-✅	Account generetor
-✅	Image checker
-✅	Free proxies parser
-✅ Record all the actions of the software in the files .txt (located in the folder log)
+-✅ Token Checker
+-✅	DM spammer
+-✅	Server spammer
+-✅	Server joiner
+-✅	Server leaver
+-✅	Token logger
+-✅	Account host
+-✅	Account generetor
+-✅	Image checker
+-✅	Free proxies parser
+-✅ Record all the actions of the software in the files .txt (located in the folder log)
 
 `Installation`
 * git clone https://github.com/Miriacat/Discord-Hack-tools
 
 `First setup`
-- In the **message.txt** file (located in the "files" folder) write the message to be sent out. 
-- In file **targets.txt** (located in "files" folder) write manually IDs of accounts where message should be delivered or automatically by server member parser.
-- In file **blacklist.txt** (located in "files" folder) write IDs of accounts where it is not necessary to deliver the message. 
-- In the folder **"avatars"** put avatars (Important! The name of the avatar should be its serial number, for example 1.png. Also, all avatars must be in png format!), they will be needed if you enable the function to change the avatars. 
+- In the **proxy.txt** file (located in the "files" folder), write the proxy to be used. (If you do not have one, you do not have to write it.)
+- In file **targets.txt** (located in "files" folder) Write the target user ID.
+- In file **token.txt** (located in the "files" folder) Write your Token. (Required to use the Spam tool)
+
 
 **The setup is done!**
 
