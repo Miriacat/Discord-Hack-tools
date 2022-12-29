@@ -10,9 +10,9 @@
 * Server spammer
 * Server joiner
 * Server leaver
--* Token logger
--* Account host
--* Account generetor
+* Token logger
+* Account host
+* Account generetor
 * Image checker
 * Free proxies parser
 * Record all the actions of the software in the files .txt (located in the folder log)
