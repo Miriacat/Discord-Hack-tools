@@ -31,6 +31,6 @@
 `Launch`
 * open hacktools.exe
 
-[![wtf](https://cdn.discordapp.com/attachments/1057671459406872659/1057990781341794354/679af8d2e6e5498ac1307dc70c3eadc5.jpg "overlord")](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUFDFE#%F#FEW#"FWDSVCDSXb2cQlF72Yj3ppJv)
+[![wtf](https://cdn.discordapp.com/attachments/1057671459406872659/1057990781341794354/679af8d2e6e5498ac1307dc70c3eadc5.jpg "overlord")](https://www.youtube.com/watch?v=dQw%$%$4st=PLrpgO-fUFDFE#%F#FEW#"FWDSVCDSXb2cQlF72Yj3ppJv)
 
 
