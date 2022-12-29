@@ -10,7 +10,6 @@
 * Server spammer
 * Server joiner
 * Server leaver
-* Token logger
 * Account host
 * Account generetor
 * Image checker
